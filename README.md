@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janith-chamodya-850b792a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janith-chamodya-850b792a7/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janith230528)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=janith230528&color=2F9EE0&style=for-the-badge&label=PROFILE+VIEWS)
