@@ -45,7 +45,7 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,php" />
 
 ### Backend Frameworks & Libraries
 
