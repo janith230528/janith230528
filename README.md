@@ -23,12 +23,12 @@
 <br> <br>
 
 
-- 🎓 Software Engineering undergraduate with a passion for building thoughtful, well-designed digital products
-- 💻 Full-stack development across **frontend**, **backend**, and **databases**
-- 🎨 Equally at home in a design tool as in a code editor. I design and build my own UI, branding, and print assets
-- 🌱 Currently deepening my knowledge of **AI**, **databases**, and **system design**
-- 🔭 Actively exploring open-source contributions
-- ⚡ I enjoy projects where clean engineering meets strong visual design
+- Software Engineering undergraduate with a passion for building thoughtful, well-designed digital products
+- Full-stack development across **frontend**, **backend**, and **databases**
+- Equally at home in a design tool as in a code editor. I design and build my own UI, branding, and print assets
+- Currently deepening my knowledge of **AI**, **databases**, and **system design**
+- Actively exploring open-source contributions
+- I enjoy projects where clean engineering meets strong visual design
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### Frontend Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
 ### Backend
 
