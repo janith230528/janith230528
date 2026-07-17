@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Janith Chamodya 👋
+<h1 align="center"><b>Hi, I'm Janith Chamodya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### Software Engineering Undergraduate | Full-Stack Developer | Graphic Designer
 
@@ -15,9 +15,13 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
+
 
 - 🎓 Software Engineering undergraduate with a passion for building thoughtful, well-designed digital products
 - 💻 Full-stack development across **frontend**, **backend**, and **databases**
@@ -28,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>  
 
 ### Programming Languages
 
@@ -71,7 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
 
@@ -95,19 +99,26 @@
 
 </div>
 
+## 🐍
+  <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
 ---
 
-## 📫 Let's Connect
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me 
+
+
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janith_Chamodya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janith-chamodya-850b792a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-janith230528-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janith230528)
-
+[![GitHub](https://img.shields.io/badge/GitHub-janith230528-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janith230528) 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
 
