@@ -65,7 +65,7 @@
 ### Dev Tools & IDEs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,postman,docker" />
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="48" width="48" title="XAMPP" />
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48" width="48" title="draw.io" />
 </p>
